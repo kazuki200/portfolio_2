@@ -660,11 +660,11 @@ main {
     width: 80%;
   }
   #js-accordion .accordion-contents .border .cont h3 {
-    font-size: 1px;
+    font-size: 10px;
     white-space: nowrap;
   }
   #js-accordion .accordion-contents .border .cont span {
-    font-size: 1px;
+    font-size: 10px;
     white-space: nowrap;
   }
   #js-accordion .accordion-contents .border .tel_area .tel_text01 {
